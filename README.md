@@ -126,7 +126,9 @@ The system detects faces in real time and classifies them as:
 **Adeeba Irfan**
 
 * GitHub: https://github.com/adeeba5260
-* LinkedIn: https://www.linkedin.com/in/adeeba-irfan
+* LinkedIn: www.linkedin.com/in/
+adeeba-irfan-2894ba316
+
 
 ---
 
