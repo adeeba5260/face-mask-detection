@@ -1,0 +1,18 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+
+dataset A/
+dataset B/
+dataset C/
+
+comparison_results/
+results/
+images/
+
+*.keras
+*.model
+*.h5
+plot.png
